@@ -1,0 +1,11 @@
+[functions.telegram-app]
+verify_jwt = false
+
+[functions.generate-barcode]
+verify_jwt = false
+
+[functions.redeem-key]
+verify_jwt = false
+
+[functions.admin-keys]
+verify_jwt = false

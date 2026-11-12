@@ -1,0 +1,21 @@
+{
+  "projectId": "72868745",
+  "functions": {
+    "admin-keys": {
+      "hasChanged": false,
+      "hash": "910c2e673861e3571df43db9ce531e731c55f3d6dd8911b570c80352e3bf861d"
+    },
+    "generate-barcode": {
+      "hasChanged": false,
+      "hash": "0f9440031dba53e7382460096098a0d00f55d22f63f7a21c9c53a791ecb41530"
+    },
+    "redeem-key": {
+      "hasChanged": false,
+      "hash": "db552f66249569c2f2aec0db8599fb41cf5bbaa25cf9fa7f06298094e42bb38f"
+    },
+    "telegram-app": {
+      "hasChanged": false,
+      "hash": "a3be1cf8463a8f96a72a23fdf41e2f3b6016cea993105ca0ca3b745c36979af9"
+    }
+  }
+}
